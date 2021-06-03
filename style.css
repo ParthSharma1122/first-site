@@ -1,0 +1,12 @@
+.top{
+  background-color: #e4f9f5;
+  height: 1000px;
+  position:relative;
+}
+body{
+  margin: 0px;
+}
+.GB{
+  position: absolute;
+  right: 200px;
+}
